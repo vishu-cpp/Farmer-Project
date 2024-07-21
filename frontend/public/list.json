@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "name":"Free",
+        "title":"hello",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/portrait-indian-man-celebrating-baisakhi-festival_23-2151216909.jpg?t=st=1720976273~exp=1720979873~hmac=4e2691c4b8a6c0a46c2def54570e624355cb4fe0a186482bdd480b6bd4103665&w=996"
+
+    },
+    {
+        "id":2,
+        "name":"Paid Courses",
+        "title":"Learn to germinate",
+        "price":50,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/portrait-indian-man-celebrating-baisakhi-festival_23-2151216909.jpg?t=st=1720976273~exp=1720979873~hmac=4e2691c4b8a6c0a46c2def54570e624355cb4fe0a186482bdd480b6bd4103665&w=996"
+
+    },
+    {
+        "id":3,
+        "name":"Earning",
+        "title":"Earning Tips",
+        "price":120,
+        "category":"bussines",
+        "image":"https://img.freepik.com/free-photo/portrait-indian-man-celebrating-baisakhi-festival_23-2151216909.jpg?t=st=1720976273~exp=1720979873~hmac=4e2691c4b8a6c0a46c2def54570e624355cb4fe0a186482bdd480b6bd4103665&w=996"
+
+    },
+    {
+        "id":4,
+        "name":"Counselling Session",
+        "title":"Couselling",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/portrait-indian-man-celebrating-baisakhi-festival_23-2151216909.jpg?t=st=1720976273~exp=1720979873~hmac=4e2691c4b8a6c0a46c2def54570e624355cb4fe0a186482bdd480b6bd4103665&w=996"
+
+    },
+    {
+        "id":5,
+        "name":"Free Guidance Course",
+        "title":"lorem sems",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/portrait-indian-man-celebrating-baisakhi-festival_23-2151216909.jpg?t=st=1720976273~exp=1720979873~hmac=4e2691c4b8a6c0a46c2def54570e624355cb4fe0a186482bdd480b6bd4103665&w=996"
+
+    },
+    {
+        "id":6,
+        "name":"Free Guidance Course",
+        "title":"lorem sems",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/portrait-indian-man-celebrating-baisakhi-festival_23-2151216909.jpg?t=st=1720976273~exp=1720979873~hmac=4e2691c4b8a6c0a46c2def54570e624355cb4fe0a186482bdd480b6bd4103665&w=996"
+
+    },
+    {
+        "id":7,
+        "name":"qwerty",
+        "title":"lorem sems",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/portrait-indian-man-celebrating-baisakhi-festival_23-2151216909.jpg?t=st=1720976273~exp=1720979873~hmac=4e2691c4b8a6c0a46c2def54570e624355cb4fe0a186482bdd480b6bd4103665&w=996"
+
+    },
+    {
+        "id":8,
+        "name":"great value course",
+        "title":"lorem sems",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/portrait-indian-man-celebrating-baisakhi-festival_23-2151216909.jpg?t=st=1720976273~exp=1720979873~hmac=4e2691c4b8a6c0a46c2def54570e624355cb4fe0a186482bdd480b6bd4103665&w=996"
+
+    },
+    {
+        "id":9,
+        "name":"hi",
+        "title":"lorem sems",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/portrait-indian-man-celebrating-baisakhi-festival_23-2151216909.jpg?t=st=1720976273~exp=1720979873~hmac=4e2691c4b8a6c0a46c2def54570e624355cb4fe0a186482bdd480b6bd4103665&w=996"
+
+    },
+    {
+        "id":10,
+        "name":"Hello",
+        "title":"lorem sems",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/portrait-indian-man-celebrating-baisakhi-festival_23-2151216909.jpg?t=st=1720976273~exp=1720979873~hmac=4e2691c4b8a6c0a46c2def54570e624355cb4fe0a186482bdd480b6bd4103665&w=996"
+
+    }
+]

@@ -2,6 +2,7 @@
 import Navbar from './Navbar';
 import Footer from './Footer';
 import { useForm } from "react-hook-form"
+import toast from 'react-hot-toast';
 
 function ContactUs() {
     const {
@@ -20,7 +21,7 @@ function ContactUs() {
         <h1 className="text-2xl font-bold">ContactUS</h1>
         <div className='mt-4 space-y-2'>
             <p className='font-bold'>Name</p>
-            <input type="text" 
+            <input type="text" id="namefield"
             className="grow rounded-md outline-none border-[2px] w-80 h-10 dark:text-gray-500"
             placeholder="Enter your Name"
             {...register("name", { required: true })}
@@ -53,9 +54,11 @@ function ContactUs() {
         {errors.message && <span className='text-sm text-red-500'>This field is required</span>}
         <button className='bg-green-500 text-white rounded-md px-3 py-1 hover:bg-green-700 duration-200'
         onClick={ ()=>{
+            
             const msg = "Submit SuccessFull";
             console.log(msg);
         }}>
+            
             Submit
         </button>
         </form>

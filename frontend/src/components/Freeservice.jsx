@@ -25,7 +25,7 @@ function Freeservice() {
     }
     getBook();
   },[])
-  
+
 
   var settings = {
     dots: true,
@@ -65,7 +65,7 @@ function Freeservice() {
     <>
       <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
         <div>
-          <h1 className="font-semibold text-xl pb-2">Free Course Offered</h1>
+          <h1 className="font-semibold text-xl pb-2">Free News Updates!!</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
             pariatur deserunt tenetur praesentium molestiae laboriosam harum,

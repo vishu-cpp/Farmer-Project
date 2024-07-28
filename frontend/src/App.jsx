@@ -7,6 +7,7 @@ import ContactUs from "./components/ContactUs"
 import { Toaster } from "react-hot-toast"
 import { useAuth } from "./context/AuthProvider"
 
+
 function App() {
       const[authUser,setAuthUser]=useAuth();
       console.log(authUser); 
@@ -18,6 +19,7 @@ function App() {
         <Route path="/marketplace" element={authUser?<Market />:<Navigate to="/signup"/>}/>
         <Route path="/signup" element={<Signup/>}/>
         <Route path="/contactus" element={<ContactUs/>}/>
+
         
 
       </Routes>

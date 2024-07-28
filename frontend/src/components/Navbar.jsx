@@ -50,7 +50,7 @@ function Navbar() {
     const navItems = (
         <>
               <li><a href="/">Home</a></li>
-              <li><a href="/">Profile</a></li>
+              
               <li><a href="/contactus">Contact</a></li>
               <li><a href="/marketplace">Marketplace</a></li>
         </>

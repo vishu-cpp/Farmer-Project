@@ -3,9 +3,10 @@ import React, { useEffect, useState } from "react";
 import Cards from "./Cards" 
 import { Link } from "react-router-dom";
 import axios from "axios";
-import Book from "../../../backend/model/book.model";
+import book from "../../../backend/model/book.model.js"
 function Marketplace() {
   const [book,setBook]=useState([])
+  //to get the data from the backend
   useEffect(() => {
     const getBook = async()=>{
       try{

@@ -2,6 +2,7 @@ import express from "express";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import cors from "cors";
+import path from "path"
 
 import bookRoute from "./route/book.route.js";
 import userRoute from "./route/user.route.js";
@@ -34,6 +35,7 @@ catch(error)
 
 app.use("/book",bookRoute)
 app.use("/user",userRoute)
+
 
 app.listen(PORT, () => {
   console.log(`Example app listening on port ${PORT}`)

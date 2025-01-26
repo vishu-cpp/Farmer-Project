@@ -25,7 +25,7 @@ function Login() {
         document.getElementById("my_modal_3").close();
         setTimeout(() => {
           
-          window.location.reload();
+          window.location.reload();  //to reload window automatically 
           localStorage.setItem("Users",JSON.stringify(res.data.user));
 
         },1000);

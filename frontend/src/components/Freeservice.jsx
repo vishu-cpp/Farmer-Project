@@ -16,7 +16,7 @@ function Freeservice() {
           
           const data = res.data.filter((data) => data.category === "free");
           console.log(data);
-          setBook(data);
+          setBook(res.data);
       } 
       catch(error){
         console.log("error")

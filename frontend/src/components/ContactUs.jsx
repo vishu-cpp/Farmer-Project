@@ -5,7 +5,8 @@ import { useForm } from "react-hook-form"
 import toast from 'react-hot-toast';
 
 function ContactUs() {
-    const {
+    // toast code 
+    const {  
         register,
         handleSubmit,
         formState: { errors },

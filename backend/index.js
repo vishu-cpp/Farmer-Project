@@ -31,6 +31,9 @@ catch(error)
   console.log("error",error)
 
 }
+app.get("/", (req, res) => {
+  res.send("Hello from backend");
+});
 //defining route
 
 app.use("/book",bookRoute)

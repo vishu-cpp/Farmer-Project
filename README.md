@@ -15,7 +15,12 @@ Follow these steps to set up and run the project on your local machine:
 ### **1. Clone the Repository**
 git clone **repository-url** <br>
 
-cd **project-folder**
+### A) go to the project folder by doing
+cd name-of-project-folder
+
+### B) Go for the frontend part :-
+
+cd frontend
 
 ### **2. Install Dependencies**
 npm install
